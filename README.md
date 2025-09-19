@@ -7,5 +7,4 @@ https://www.dropbox.com/scl/fi/vp966sjn1h1chpsxpe6sa/HiTechSquadApp.zip?rlkey=zr
 
 
 Our AdminPage has been deployed and down here is the link:
-
 https://hi-tech-squad-admin-page.onrender.com/
